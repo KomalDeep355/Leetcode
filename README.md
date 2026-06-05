@@ -73,5 +73,6 @@ Leetcode practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/KomalDeep355/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
+| [0182-duplicate-emails](https://github.com/KomalDeep355/Leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/KomalDeep355/Leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
