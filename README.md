@@ -23,6 +23,7 @@ Leetcode practice
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/KomalDeep355/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KomalDeep355/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KomalDeep355/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +33,9 @@ Leetcode practice
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/KomalDeep355/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KomalDeep355/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KomalDeep355/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KomalDeep355/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
