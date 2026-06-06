@@ -85,6 +85,7 @@ Leetcode practice
 | [0607-sales-person](https://github.com/KomalDeep355/Leetcode/tree/main/0607-sales-person/) | Easy |
 | [0620-not-boring-movies](https://github.com/KomalDeep355/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/KomalDeep355/Leetcode/tree/main/0626-exchange-seats/) | Medium |
+| [1045-customers-who-bought-all-products](https://github.com/KomalDeep355/Leetcode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KomalDeep355/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/KomalDeep355/Leetcode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/KomalDeep355/Leetcode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
