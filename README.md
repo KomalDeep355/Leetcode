@@ -90,4 +90,5 @@ Leetcode practice
 | [1070-product-sales-analysis-iii](https://github.com/KomalDeep355/Leetcode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/KomalDeep355/Leetcode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/KomalDeep355/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1251-average-selling-price](https://github.com/KomalDeep355/Leetcode/tree/main/1251-average-selling-price/) | Easy |
 <!---LeetCode Topics End-->
