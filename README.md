@@ -8,6 +8,7 @@ Leetcode practice
 | [0169-majority-element](https://github.com/KomalDeep355/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/KomalDeep355/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/KomalDeep355/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/KomalDeep355/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Leetcode practice
 | [0189-rotate-array](https://github.com/KomalDeep355/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/KomalDeep355/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/KomalDeep355/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/KomalDeep355/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +93,8 @@ Leetcode practice
 | [1174-immediate-food-delivery-ii](https://github.com/KomalDeep355/Leetcode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/KomalDeep355/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1251-average-selling-price](https://github.com/KomalDeep355/Leetcode/tree/main/1251-average-selling-price/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/KomalDeep355/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
