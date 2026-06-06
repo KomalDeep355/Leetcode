@@ -84,5 +84,6 @@ Leetcode practice
 | [0596-classes-with-at-least-5-students](https://github.com/KomalDeep355/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/KomalDeep355/Leetcode/tree/main/0607-sales-person/) | Easy |
 | [0620-not-boring-movies](https://github.com/KomalDeep355/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
+| [0626-exchange-seats](https://github.com/KomalDeep355/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KomalDeep355/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 <!---LeetCode Topics End-->
