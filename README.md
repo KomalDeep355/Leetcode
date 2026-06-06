@@ -86,4 +86,5 @@ Leetcode practice
 | [0620-not-boring-movies](https://github.com/KomalDeep355/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/KomalDeep355/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KomalDeep355/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1193-monthly-transactions-i](https://github.com/KomalDeep355/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
 <!---LeetCode Topics End-->
