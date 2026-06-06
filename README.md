@@ -83,4 +83,5 @@ Leetcode practice
 | [0584-find-customer-referee](https://github.com/KomalDeep355/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/KomalDeep355/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/KomalDeep355/Leetcode/tree/main/0607-sales-person/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KomalDeep355/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 <!---LeetCode Topics End-->
