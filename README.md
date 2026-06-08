@@ -94,6 +94,7 @@ Leetcode practice
 | [1174-immediate-food-delivery-ii](https://github.com/KomalDeep355/Leetcode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/KomalDeep355/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1251-average-selling-price](https://github.com/KomalDeep355/Leetcode/tree/main/1251-average-selling-price/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/KomalDeep355/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
