@@ -5,13 +5,17 @@
 #         self.next = next
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        prev = None
-        current = head
-
+        if head is None:
+            return None
+        previous = None
+        current= head
         while current:
-            nxt = current.next   # save next node
-            current.next = prev  # reverse link
-            prev = current       # move prev forward
-            current = nxt        # move current forward
+            next_node = current.next
+            current.next = previous
+            previous = current
+            current = next_node
+        return previous
 
-        return prev
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
