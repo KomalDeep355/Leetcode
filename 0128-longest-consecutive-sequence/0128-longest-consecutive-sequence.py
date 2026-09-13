@@ -3,22 +3,17 @@ class Solution:
         if not nums:
             return 0
 
-        nums.sort()
+        num_set = set(nums)
+        longest_length = 0
 
-        current_length = 1
-        longest_length = 1
-
-        for i in range(1, len(nums)):
-            if nums[i] == nums[i - 1] + 1:
-                current_length += 1
-
-            elif nums[i] == nums[i - 1]:
-                continue
-
-            else:
+        for num in num_set:
+            if num - 1 not in num_set:
                 current_length = 1
 
-            longest_length = max(longest_length, current_length)
+                while num + current_length in num_set:
+                    current_length += 1
+
+                longest_length = max(longest_length, current_length)
 
         return longest_length
 
